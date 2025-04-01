@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DS\\source\\repos\\Project8\\",
+  "WorkspaceRootPath": "C:\\Users\\DS\\Desktop\\\u0430\u0430\u0430\\410902\\\u0421\u0451\u043C\u0447\u0435\u043D\u0430\u0414\u0430\u0440\u044C\u044F\\lab8\\Project8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8DF9B5A6-066E-4EF6-9B82-F65CB7AF11FF}|Project8.vcxproj|C:\\Users\\DS\\source\\repos\\Project8\\FileName8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8DF9B5A6-066E-4EF6-9B82-F65CB7AF11FF}|Project8.vcxproj|C:\\Users\\DS\\Desktop\\\u0430\u0430\u0430\\410902\\\u0421\u0451\u043C\u0447\u0435\u043D\u0430\u0414\u0430\u0440\u044C\u044F\\lab8\\Project8\\FileName8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8DF9B5A6-066E-4EF6-9B82-F65CB7AF11FF}|Project8.vcxproj|solutionrelative:FileName8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -24,9 +24,9 @@
               "DocumentIndex": 1,
               "Title": "utility",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\utility",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\utility",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\utility",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\utility",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\utility",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\utility",
               "ViewState": "AgIAAOACAAAAAAAAAAApwPACAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-11-29T17:39:27.495Z"
@@ -35,11 +35,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FileName8.cpp",
-              "DocumentMoniker": "C:\\Users\\DS\\source\\repos\\Project8\\FileName8.cpp",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\\u0430\u0430\u0430\\410902\\\u0421\u0451\u043C\u0447\u0435\u043D\u0430\u0414\u0430\u0440\u044C\u044F\\lab8\\Project8\\FileName8.cpp",
               "RelativeDocumentMoniker": "FileName8.cpp",
-              "ToolTip": "C:\\Users\\DS\\source\\repos\\Project8\\FileName8.cpp",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\\u0430\u0430\u0430\\410902\\\u0421\u0451\u043C\u0447\u0435\u043D\u0430\u0414\u0430\u0440\u044C\u044F\\lab8\\Project8\\FileName8.cpp",
               "RelativeToolTip": "FileName8.cpp",
-              "ViewState": "AgIAACkAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwDEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-28T23:03:13.644Z",
               "EditorCaption": ""
