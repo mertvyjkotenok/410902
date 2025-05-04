@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\DS\Desktop\БГУИР\ОАиП\Лабораторные\lab15\FileName.cpp(19,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  lab15.vcxproj -> C:\Users\DS\Desktop\БГУИР\ОАиП\Лабораторные\lab15\x64\Debug\lab15.exe
